@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">動的ビューのサンプル</string>
+    <string name="title_activity_main">動的ビュー</string>
+    <string name="textv_simei">氏名：</string>
+    <string name="textv_phone">電話：</string>
+    <string name="textv_mail">メール：</string>
+    <string name="textv_address">住所：</string>
+    <string name="textv_spinner">新しい項目の追加：</string>
+    <string name="btn_add_new_item_text">新しい項目を追加する</string>
+    <string name="btn_add_new_text">新しく追加する</string>
+    <string name="btn_delete_row_description">削除</string>
+    <string name="btn_delete_row">X</string>
+    <string-array name="categories">
+        <item >自宅</item>
+        <item >勤務先</item>
+        <item >携帯</item>
+        <item >その他</item>
+    </string-array>
+    <string-array name="address_categories">
+        <item >自宅</item>
+        <item >勤務先</item>
+        <item >その他</item>
+    </string-array>
+    <string name="menu_save_data">保存</string>
+</resources>
